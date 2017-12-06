@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\Sourcya\\SourcyaVideoTask\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\raw\\libarm.so",
+        "source": "H:\\Sourcya\\SourcyaVideoTask\\vitamio-sample\\res\\raw\\libarm.so"
+    },
+    {
+        "merged": "H:\\Sourcya\\SourcyaVideoTask\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\raw\\test_cbr.mp3",
+        "source": "H:\\Sourcya\\SourcyaVideoTask\\vitamio-sample\\res\\raw\\test_cbr.mp3"
+    }
+]
